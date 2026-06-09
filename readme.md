@@ -1,0 +1,3 @@
+actividad 6 git
+aprendiendo usar git
+hola mundo...
